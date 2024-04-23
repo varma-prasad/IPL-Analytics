@@ -1,5 +1,5 @@
 # IPL-Analytics
-Analytics of IPL from 2008 to 2023 by Power BI
+Analytics of IPL from 2008 to 2023 by Power BI.
 Dashboard Link: [Press this link to go to power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWEzYjk1MzgtNzZjMC00YWIyLWFiMGEtMWNiODQyZmMzOTEwIiwidCI6IjZhYjJkZTAwLTYxZjYtNDVmYS1iZmM4LTcxYTY4MDUwYjg0NyJ9)
 
 ## Table of Contents
