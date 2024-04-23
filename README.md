@@ -14,7 +14,7 @@ Analytics of IPL from 2008 to 2023 by Power BI
 
 ### Overview
 
-* Famous Cricketing event in India, Which has over 1 Billion Viewership across Platforms.
+* IPL is Famous Cricketing event in India, Which has over 1 Billion Viewership across Platforms.
 * IPL has it's genesis in 2008 and successfully conducting event every year with rising popularity.
 * This "IPL Analysis" project is developed to delivery a compelling Data Story built on IPL journey from 2008 to 2023.
 * This canvas has four section (Yearly Stats, Batsman Stats, Bowler Stats & Team Stats).
