@@ -9,7 +9,7 @@ Analytics of IPL from 2008 to 2023 by Power BI
 * [Bowler Stats](#bowler-stats)
 * [Team Stats](#team-stats)
 * [Use Cases](#use-cases)
-* [IPL Dashboard)(#
+* [IPL Dashboard Link)(#ipl-dashboard-link)
 * [About Author](#authors)
 
 ### Overview
@@ -68,9 +68,9 @@ Analytics of IPL from 2008 to 2023 by Power BI
 * Teams can select appropriate players under different playing conditions emulated in the past & increase the probability of Desired result in present Scenarios.
 * Cricketing Fans/Geeks can explore interesting stats about Cherished Players/Teams of IPL journey from 2008 to 2023.
 
-### IPL Dashbord View
+### IPL Dashboard Link
 
-<iframe title="IPL_Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWEzYjk1MzgtNzZjMC00YWIyLWFiMGEtMWNiODQyZmMzOTEwIiwidCI6IjZhYjJkZTAwLTYxZjYtNDVmYS1iZmM4LTcxYTY4MDUwYjg0NyJ9" frameborder="0" allowFullScreen="true"></iframe>
+Dashboard Link: [Press this link to go to power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWEzYjk1MzgtNzZjMC00YWIyLWFiMGEtMWNiODQyZmMzOTEwIiwidCI6IjZhYjJkZTAwLTYxZjYtNDVmYS1iZmM4LTcxYTY4MDUwYjg0NyJ9)
 
 ----
 
